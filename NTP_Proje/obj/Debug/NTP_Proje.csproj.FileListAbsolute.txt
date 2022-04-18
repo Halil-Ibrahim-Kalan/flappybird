@@ -1,0 +1,11 @@
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\bin\Debug\NTP_Proje.exe.config
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\bin\Debug\NTP_Proje.exe
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\bin\Debug\NTP_Proje.pdb
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.Form1.resources
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.Properties.Resources.resources
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.csproj.GenerateResource.cache
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.exe
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.pdb
+C:\Users\halil\source\repos\NTP_Proje\NTP_Proje\obj\Debug\NTP_Proje.Properties.Birds.resources
